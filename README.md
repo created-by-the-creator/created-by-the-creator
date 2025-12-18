@@ -12,6 +12,7 @@
 
 ### 💻 Currently Learning  
 <blockquote>
+🌸 Python <br>  
 🌸 C++ <br>
 🌸 C <br>
 🌸 HTML <br>
